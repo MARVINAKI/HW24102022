@@ -1,5 +1,4 @@
 package Forge;
-
 import java.time.LocalDate;
 
 public class Book {
